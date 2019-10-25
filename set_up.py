@@ -12,7 +12,7 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'woe_linear_bin'
+NAME = 'woe_bin'
 DESCRIPTION = 'split the continuous variables, the output woe value is monotonous.'
 URL = 'https://github.com/jinxinbo/linear_woe_bin'
 EMAIL = 'tmacabo@163.com'
