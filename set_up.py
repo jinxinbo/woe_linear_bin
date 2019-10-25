@@ -18,7 +18,7 @@ URL = 'https://github.com/jinxinbo/linear_woe_bin'
 EMAIL = 'tmacabo@163.com'
 AUTHOR = 'jinxinbo'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = '0.1.0'
+VERSION = '0.0.1'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
