@@ -1,11 +1,11 @@
 # woe_linear_bin
 
-|- LICENSE
-|- MANIFEST.in
-|- README.md
-|- setup.py
-|- woe_bin
-   |- linear_woe_bin.py
+#|- LICENSE
+#|- MANIFEST.in
+#|- README.md
+#|- setup.py
+#|- woe_bin
+##   |- linear_woe_bin.py
       |- split_data
          |- split_onevar
             |- first_split
@@ -34,7 +34,7 @@ import pandas as pd
 import woe_bin
 data1 = pd.get_dummies(data0)
 
-mapiv_1 = woe_bin.split_data(data1, 0.1) # 0.1 is the min_bin reate
+mapiv_1 = woe_bin.split_data(data1, 'target', 0.1) # 0.1 is the min_bin reate
 ```
 also,we can translate the origin data into woetab.
 
