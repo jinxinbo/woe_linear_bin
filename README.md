@@ -1,8 +1,8 @@
 ## woe_linear_bin
 
-# |- woe_bin
-  |-- linear_woe_bin.py
-      |-- split_data
+####|- woe_bin
+  |- linear_woe_bin.py
+      |- split_data
          |- split_onevar
             |- first_split
                |- get_iv
