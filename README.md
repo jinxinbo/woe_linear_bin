@@ -1,7 +1,8 @@
 ## woe_linear_bin
 
-#### |- woe_bin
-#####  |- linear_woe_bin.py
+```
+|- woe_bin
+ |- linear_woe_bin.py
       |- split_data
          |- split_onevar
             |- first_split
@@ -15,6 +16,7 @@
                |- get_dist              
       |-apply_woetab
          |-woe_trans
+```
 
 ## Example 
 ***the version 0.0.1 only can split the continuous variable, so if you have the category variable, 
