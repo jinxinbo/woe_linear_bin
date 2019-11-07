@@ -1,4 +1,4 @@
-## woe_linear_bin
+## Function Structure
 
 ```
 |- woe_bin
