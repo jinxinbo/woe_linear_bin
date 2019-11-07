@@ -19,7 +19,7 @@
 ```
 
 ## Example 
-***the version 0.0.1 only can split the continuous variable, so if you have the category variable, 
+***the version 0.0.2 only can split the continuous variable, so if you have the category variable, 
 you can use pd.get_dumies() translate into  continuous variable***
 
 *now,suppose you have a DataFrame data0*
